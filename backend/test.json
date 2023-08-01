@@ -1,0 +1,14 @@
+{
+	"income": {
+		"title": "title 1",
+		"amount": 30,
+		"category": "Salary",
+		"description": "My Salary",
+		"date": "30-10-2023"
+	},
+	"user": {
+		"email": "example@example.com",
+		"username": "testuser",
+		"password": "passme"
+	}
+}
